@@ -4,14 +4,16 @@
 
 Le code first permet l'utilisation des migrations pour gérer les objets de la base de données automatiquement à partir des classes du modèle.
 
-C'est la classe DbContext qui est responsable de la liason entre les entitées et la base de données qui lui est configurée grâce à une chaine de connexion.
-
 Pour expérimenter ces concepts fondamentaux, nous utiliserons un modèle de données, petit mais suffisant, comportant :
 - une relation simple 1 n
 - une relation multiple * *
-- un héritage
+- un héritage.
 
-Enfin, pour vérifier notre implémentation, nous allons utiliser une Api MVC avec génération automatique de contrôleurs et utiliser Swagger ...
+C'est la classe DbContext qui est responsable de la liaison entre les entités et la base de données.
+Une chaine de connexion est donnée au DbContext pour réaliser la connexion physique.
+
+Enfin, pour vérifier notre implémentation, nous allons utiliser une Api MVC avec génération automatique des contrôleurs.
+Et utiliser Swagger pour manipuler l'Api ...
 
 Enjoy 😉
 
