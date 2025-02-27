@@ -17,4 +17,5 @@ Et utiliser Swagger pour manipuler l'Api ...
 
 Enjoy 😉
 
-Le tuto : <a href="https://github.com/nclavere/TutoEFcodefirstApiMVCcore/CoursEFcoreCodeFirst_ApiMVC.pdf" target="_blank">CoursEFcoreCodeFirst_ApiMVC.pdf</a>
+Le tuto : <a href="https://github.com/nclavere/TutoEFcodefirstApiMVCcore/blob/main/CoursEFcoreCodeFirst_ApiMVC.pdf" target="_blank">CoursEFcoreCodeFirst_ApiMVC.pdf</a>
+
